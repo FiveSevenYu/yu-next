@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "eslint": "^6.7.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "json-server": "^0.15.1",
     "next": "^9.1.4",
     "react": "^16.12.0",
